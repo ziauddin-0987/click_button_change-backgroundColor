@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+/* body {
+  background-color: blue;
+  margin-top: 5rem;
+} */
+.box {
+  margin: auto;
+  width: 15rem;
+  height: 8rem;
+  background-color: aliceblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  width: 4rem;
+  background-color: brown;
+}
